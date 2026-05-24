@@ -1,0 +1,66 @@
+
+arch:description.name=Architectual Blocks
+
+tile.archt:cut_stone.name=Cut Stone
+tile.archt:broken_stone_tiles.name=Broken Stone Tiles
+tile.archt:dark_stone.name=Dark Stone
+tile.archt:engraved_stone.name=Engraved Stone
+tile.archt:pulished_stone.name=Pulished Stone
+tile.archt:stone_base.name=Stone Base
+tile.archt:stone_capitel.name=Stone Capitel
+tile.archt:stone_pillar.name=Stone Pillar
+tile.archt:stone_tiles.name=Stone Tiles
+
+
+tile.archt:andesite_base.name=Andesite Base
+tile.archt:andesite_bricks.name=Andesite Bricks
+tile.archt:andesite_capital.name=Andesite Capitel
+tile.archt:andesite_coblestone.name=Andesite Coblestone
+tile.archt:andesite_mossy_bricks.name=Andesite Mossy Bricks
+tile.archt:andesite_mossy_coblestone.name=Andesite Mossy Coblestone
+tile.archt:andesite_pillar.name=Andesite Pillar
+tile.archt:andesite_tiles.name=Andesite Tiles
+tile.archt:broken_andesite_bricks.name=Broken Andesite Bricks
+tile.archt:broken_andesite_tiles.name=Broken Andesite Tiles
+tile.archt:chiseled_andesite_bricks.name=Chiseled Andesite Bricks
+tile.archt:cut_andesite.name=Cut Andesite
+tile.archt:dark_andesite.name=Dark Andesite
+tile.archt:engraved_andesite.name=Engraved Andesite
+tile.archt:smooth_andesite.name=Smooth Andesite
+
+
+
+tile.archt:broken_diorite_bricks.name=Broken Diorite Bricks
+tile.archt:broken_diorite_tiles.name=Broken Diorite Tiles
+tile.archt:chiseled_diorite_bricks.name=Chiseled Diorite Bricks
+tile.archt:cut_diorite.name=Cut Diorite
+tile.archt:dark_diorite.name=Dark Diorite
+tile.archt:diorite_base.name=Diorite Base
+tile.archt:diorite_bricks.name=Diorite Bricks
+tile.archt:diorite_capital.name=Diorite Capital
+tile.archt:diorite_coblestone.name=Diorite Coblestone
+tile.archt:diorite_mossy_bricks.name=Diorite Mossy Bricks
+tile.archt:diorite_mossy_coblestone.name=Diorite Mossy Coblestone
+tile.archt:diorite_pillar.name=Diorite Pillar
+tile.archt:diorite_tiles.name=Diorite Tiles
+tile.archt:engraved_diorite.name=Engraved Diorite
+tile.archt:smooth_diorite.name=Smooth Diorite
+
+
+
+
+tile.archt:broken_granite_bricks.name=Broken Granite Bricks
+tile.archt:broken_granite_tiles.name=Broken Granite Tiles
+tile.archt:chiseled_granite_bricks.name=Chiseled Granite Bricks
+tile.archt:cut_granite.name=Cut Granite
+tile.archt:dark_granite.name=Dark Granite
+tile.archt:engraved_granite.name=Engraved Granite
+tile.archt:granite_bricks.name=Granite Bricks
+tile.archt:granite_tiles.name=Granite Tiles
+tile.archt:granite_base.name=Granite Base
+tile.archt:granite_capital.name=Granite Capital
+tile.archt:granite_coblestone.name=Granite Coblestone
+tile.archt:granite_mossy_bricks.name=Granite Mossy Bricks
+tile.archt:granite_mossy_coblestone.name=Granite Mossy coblestone
+tile.archt:granite_pillar.name=Granite Pillar
+tile.archt:smooth_granite.name=Smooth Granite

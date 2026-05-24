@@ -1,0 +1,165 @@
+{
+	"format_version": "1.21.0",
+	"cut_stone": {
+		"sound": "stone"
+	},
+	"broken_stone_tiles": {
+		"sound": "stone"
+	},
+	"dark_stone": {
+		"sound": "stone"
+	},
+	"stone_tiles": {
+		"sound": "stone"
+	},
+	"engraved_stone": {
+		"sound": "stone"
+	},
+	"polished_stone": {
+		"sound": "stone"
+	},
+	"stone_base": {
+		"sound": "stone"
+	},
+	"stone_capital": {
+		"sound": "stone"
+	},
+	"stone_pillar": {
+		"sound": "stone"
+	},
+	"broken_granite_bricks": {
+		"sound": "stone"
+	},
+	"broken_granite_tiles": {
+		"sound": "stone"
+	},
+	"chiseled_granite_bricks": {
+		"sound": "stone"
+	},
+	"cut_granite": {
+		"sound": "stone"
+	},
+	"dark_granite": {
+		"sound": "stone"
+	},
+	"engraved_granite": {
+		"sound": "stone"
+	},
+	"granite_bricks": {
+		"sound": "stone"
+	},
+	"granite_tiles": {
+		"sound": "stone"
+	},
+	"granite_base": {
+		"sound": "stone"
+	},
+	"granite_capital": {
+		"sound": "stone"
+	},
+	"granite_coblestone": {
+		"sound": "stone"
+	},
+	"granite_mossy_bricks": {
+		"sound": "stone"
+	},
+	"granite_mossy_coblestone": {
+		"sound": "stone"
+	},
+	"granite_pillar": {
+		"sound": "stone"
+	},
+	"smooth_granite": {
+		"sound": "stone"
+	},
+	"broken_diorite_tiles": {
+		"sound": "stone"
+	},
+	"chiseled_diorite_bricks": {
+		"sound": "stone"
+	},
+	"cut_diorite": {
+		"sound": "stone"
+	},
+	"dark_diorite": {
+		"sound": "stone"
+	},
+	"engraved_diorite": {
+		"sound": "stone"
+	},
+	"diorite_bricks": {
+		"sound": "stone"
+	},
+	"diorite_tiles": {
+		"sound": "stone"
+	},
+	"diorite_base": {
+		"sound": "stone"
+	},
+	"diorite_capital": {
+		"sound": "stone"
+	},
+	"diorite_coblestone": {
+		"sound": "stone"
+	},
+	"diorite_mossy_bricks": {
+		"sound": "stone"
+	},
+	"diorite_mossy_coblestone": {
+		"sound": "stone"
+	},
+	"diorite_pillar": {
+		"sound": "stone"
+	},
+	"smooth_diorite": {
+		"sound": "stone"
+	},
+	"broken_diorite_bricks": {
+		"sound": "stone"
+	},
+	"broken_andesite_tiles": {
+		"sound": "stone"
+	},
+	"chiseled_andesite_bricks": {
+		"sound": "stone"
+	},
+	"cut_andesite": {
+		"sound": "stone"
+	},
+	"dark_andesite": {
+		"sound": "stone"
+	},
+	"engraved_andesite": {
+		"sound": "stone"
+	},
+	"andesite_bricks": {
+		"sound": "stone"
+	},
+	"andesite_tiles": {
+		"sound": "stone"
+	},
+	"andesite_base": {
+		"sound": "stone"
+	},
+	"andesite_capital": {
+		"sound": "stone"
+	},
+	"andesite_coblestone": {
+		"sound": "stone"
+	},
+	"andesite_mossy_bricks": {
+		"sound": "stone"
+	},
+	"andesite_mossy_coblestone": {
+		"sound": "stone"
+	},
+	"andesite_pillar": {
+		"sound": "stone"
+	},
+	"smooth_andesite": {
+		"sound": "stone"
+	},
+	"broken_andesite_bricks": {
+		"sound": "stone"
+	}
+}

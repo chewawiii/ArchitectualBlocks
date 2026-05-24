@@ -1,0 +1,63 @@
+
+arch:description.name=Architectual Blocks
+
+tile.archt:cut_stone.name=Piedra Cortada
+tile.archt:broken_stone_tiles.name=Baldosas rotas de Piedra
+tile.archt:dark_stone.name=Piedra Oscura
+tile.archt:engraved_stone.name=Piedra Gravada
+tile.archt:pulished_stone.name=Piedra Pulida
+tile.archt:stone_base.name=Base de Piedra
+tile.archt:stone_capitel.name=Capitel de Piedra
+tile.archt:stone_pillar.name=Pilar de Piedra
+tile.archt:stone_tiles.name=Baldosas de Piedra
+
+
+tile.archt:andesite_base.name=Base de Andesita
+tile.archt:andesite_bricks.name=Ladrillos de Andesita
+tile.archt:andesite_capital.name=Capitel de Andesita
+tile.archt:andesite_coblestone.name=Adoquin de Andesita
+tile.archt:andesite_mossy_bricks.name=Ladrillos Musgosos de Andesita
+tile.archt:andesite_mossy_coblestone.name=Adoquin Musgoso de Andesita
+tile.archt:andesite_pillar.name=Pilar de Andesita
+tile.archt:andesite_tiles.name=Baldosas de Andesita
+tile.archt:broken_andesite_bricks.name=Ladrillos Rotos de Andesita
+tile.archt:broken_andesite_tiles.name=Baldosas Rotas de Andesita
+tile.archt:chiseled_andesite_bricks.name=Ladrillos Cincelados de Andesita
+tile.archt:cut_andesite.name=Andesita Cortada
+tile.archt:dark_andesite.name=Andesita Oscura
+tile.archt:engraved_andesite.name=Andesita Gravada
+tile.archt:smooth_andesite.name=Andesita Lisa
+
+
+tile.archt:broken_diorite_bricks.name=Ladrillos rotos de Diorita
+tile.archt:broken_diorite_tiles.name=Baldosa rota de Diorita
+tile.archt:chiseled_diorite_bricks.name=Ladrillo Cincelado de Diorita
+tile.archt:cut_diorite.name=Diorita Cortada
+tile.archt:dark_diorite.name=Diorita Oscura
+tile.archt:diorite_base.name=Base de Diorita
+tile.archt:diorite_bricks.name=Ladrillos de Diorita
+tile.archt:diorite_capital.name=Capitel de Diorita
+tile.archt:diorite_coblestone.name=Adoquin de Diorita
+tile.archt:diorite_mossy_bricks.name=Ladrillos Musgosos de Diorita
+tile.archt:diorite_mossy_coblestone.name=Adoquin Musgoso de Diorita
+tile.archt:diorite_pillar.name=Pilar de Diorita
+tile.archt:diorite_tiles.name=Baldosas de Diorita
+tile.archt:engraved_diorite.name=Diorita Gravada
+tile.archt:smooth_diorite.name=Diorita Lisa
+
+
+tile.archt:broken_granite_bricks.name=Ladrillos rotos de Granito
+tile.archt:broken_granite_tiles.name=Baldosas Rotas de Granito
+tile.archt:chiseled_granite_bricks.name=Ladrillos Cinceados de Granito
+tile.archt:cut_granite.name=Granito Cortado
+tile.archt:dark_granite.name=Granito Oscura
+tile.archt:engraved_granite.name=Granito Gravado
+tile.archt:granite_bricks.name=Ladrillos de Granito
+tile.archt:granite_tiles.name=Baldosas de Granito
+tile.archt:granite_base.name=Base de los Granitos
+tile.archt:granite_capital.name=Capitel de Granito
+tile.archt:granite_coblestone.name=Adoquines de Granito
+tile.archt:granite_mossy_bricks.name=Ladrillos Musgosos de Granito
+tile.archt:granite_mossy_coblestone.name=Adoquines Musgosos de Granito
+tile.archt:granite_pillar.name=Pilar de Granito
+tile.archt:smooth_granite.name=Granito Liso

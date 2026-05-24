@@ -1,0 +1,207 @@
+{
+	"format_version": "1.26.10",
+	"minecraft:crafting_items_catalog": {
+		"categories": [
+			{
+				"category_name": "construction",
+				"groups": [
+					{
+						"group_identifier": {
+							"icon": "minecraft:andesite",
+							"name": "archt:itemGroup.name.andesite"
+						},
+						"items": [
+							"archt:andesite_base",
+							"archt:andesite_bricks",
+							"archt:andesite_capital",
+							"archt:andesite_coblestone",
+							"archt:andesite_mossy_bricks",
+							"archt:andesite_mossy_coblestone",
+							"archt:andesite_pillar",
+							"archt:andesite_tiles",
+							"archt:broken_andesite_bricks",
+							"archt:broken_andesite_tiles",
+							"archt:chiseled_andesite_bricks",
+							"archt:cut_andesite",
+							"archt:dark_andesite",
+							"archt:engraved_andesite",
+							"archt:smooth_andesite"
+						]
+					},
+					{
+						"group_identifier": {
+							"icon": "minecraft:basalt",
+							"name": "archt:itemGroup.name.basalt"
+						},
+						"items": [
+							"archt:basalt_base",
+							"archt:basalt_bricks",
+							"archt:basalt_capital",
+							"archt:basalt_coblestone",
+							"archt:basalt_mossy_bricks",
+							"archt:basalt_mossy_coblestone",
+							"archt:basalt_pillar",
+							"archt:basalt_tiles",
+							"archt:broken_basalt_bricks",
+							"archt:broken_basalt_tiles",
+							"archt:chiseled_basalt_bricks",
+							"archt:cut_basalt",
+							"archt:dark_basalt",
+							"archt:engraved_basalt",
+							"archt:polished_basalt",
+							"archt:smooth_basalt"
+						]
+					},
+					{
+						"group_identifier": {
+							"icon": "minecraft:calcite",
+							"name": "archt:itemGroup.name.calcite"
+						},
+						"items": [
+							"archt:broken_calcite_bricks",
+							"archt:broken_calcite_tiles",
+							"archt:calcite_base",
+							"archt:calcite_bricks",
+							"archt:calcite_capital",
+							"archt:calcite_coblestone",
+							"archt:calcite_mossy_bricks",
+							"archt:calcite_mossy_coblestone",
+							"archt:calcite_pillar",
+							"archt:calcite_tiles",
+							"archt:chiseled_calcite_bricks",
+							"archt:cut_calcite",
+							"archt:dark_calcite",
+							"archt:engraved_calcite",
+							"archt:polished_calcite",
+							"archt:smooth_calcite"
+						]
+					},
+					{
+						"group_identifier": {
+							"icon": "minecraft:deepslate",
+							"name": "archt:itemGroup.name.deepslate"
+						},
+						"items": [
+							"archt:chiseled_deepslate_bricks",
+							"archt:cut_deepslate",
+							"archt:dark_deepslate",
+							"archt:deepslate_base",
+							"archt:deepslate_capital",
+							"archt:deepslate_pillar",
+							"archt:sculk_deepslate_bricks",
+							"archt:sculk_deepslate_coblestone",
+							"archt:smooth_deepslate"
+						]
+					},
+					{
+						"group_identifier": {
+							"icon": "minecraft:diorite",
+							"name": "archt:itemGroup.name.diorite"
+						},
+						"items": [
+							"archt:broken_diorite_bricks",
+							"archt:broken_diorite_tiles",
+							"archt:chiseled_diorite_bricks",
+							"archt:cut_diorite",
+							"archt:dark_diorite",
+							"archt:engraved_diorite",
+							"archt:diorite_tiles",
+							"archt:diorite_base",
+							"archt:diorite_bricks",
+							"archt:diorite_capital",
+							"archt:diorite_coblestone",
+							"archt:diorite_mossy_bricks",
+							"archt:diorite_mossy_coblestone",
+							"archt:diorite_pillar",
+							"archt:smooth_diorite"
+						]
+					},
+					{
+						"group_identifier": {
+							"icon": "minecraft:dripstone_block",
+							"name": "archt:itemGroup.name.dripstone"
+						},
+						"items": [
+							"archt:broken_dripstone_bricks",
+							"archt:broken_dripstone_tiles",
+							"archt:chiseled_dripstone_bricks",
+							"archt:cut_dripstone",
+							"archt:dark_dripstone",
+							"archt:dripstone_base",
+							"archt:dripstone_bricks",
+							"archt:dripstone_capital",
+							"archt:dripstone_coblestone",
+							"archt:dripstone_mossy_bricks",
+							"archt:dripstone_mossy_coblestone",
+							"archt:dripstone_pillar",
+							"archt:dripstone_tiles",
+							"archt:engraved_dripstone",
+							"archt:polished_dripstone",
+							"archt:smooth_dripstone"
+						]
+					},
+					{
+						"group_identifier": {
+							"icon": "minecraft:granite",
+							"name": "archt:itemGroup.name.granite"
+						},
+						"items": [
+							"archt:broken_granite_bricks",
+							"archt:broken_granite_tiles",
+							"archt:chiseled_granite_bricks",
+							"archt:cut_granite",
+							"archt:dark_granite",
+							"archt:engraved_granite",
+							"archt:granite_tiles",
+							"archt:granite_base",
+							"archt:granite_bricks",
+							"archt:granite_capital",
+							"archt:granite_coblestone",
+							"archt:granite_mossy_bricks",
+							"archt:granite_mossy_coblestone",
+							"archt:granite_pillar",
+							"archt:smooth_granite"
+						]
+					},
+					{
+						"group_identifier": {
+							"icon": "minecraft:stone",
+							"name": "archt:itemGroup.name.stone"
+						},
+						"items": [
+							"archt:broken_stone_tiles",
+							"archt:cut_stone",
+							"archt:dark_stone",
+							"archt:engraved_stone",
+							"archt:polished_stone",
+							"archt:stone_base",
+							"archt:stone_capital",
+							"archt:stone_pillar",
+							"archt:stone_tiles"
+						]
+					},
+					{
+						"group_identifier": {
+							"icon": "minecraft:tuff",
+							"name": "archt:itemGroup.name.tuff"
+						},
+						"items": [
+							"archt:broken_tuff_bricks",
+							"archt:broken_tuff_tiles",
+							"archt:cut_tuff",
+							"archt:dark_tuff",
+							"archt:smooth_tuff",
+							"archt:tuff_base",
+							"archt:tuff_capital",
+							"archt:tuff_coblestone",
+							"archt:tuff_mossy_bricks",
+							"archt:tuff_mossy_coblestone",
+							"archt:tuff_pillar",
+							"archt:tuff_tiles"
+						]
+					}
+				]
+			}
+		]
+	}
+}
