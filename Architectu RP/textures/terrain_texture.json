@@ -118,10 +118,10 @@
 		"engraved_basalt_top": {
 			"textures": "textures/blocks/basalt/engraved_basalt_top.png"
 		},
-		"archt:polished_basalt": {
+		"polished_basalt": {
 			"textures": "textures/blocks/basalt/polished_basalt.png"
 		},
-		"smooth_basalt": {
+		"archt:smooth_basalt": {
 			"textures": "textures/blocks/basalt/smooth_basalt.png"
 		},
 
