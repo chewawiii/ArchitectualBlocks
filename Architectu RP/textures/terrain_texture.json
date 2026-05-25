@@ -322,10 +322,10 @@
 			"textures": "textures/blocks/dripstone/dripstone_tiles.png"
 		},
 		"engraved_dripstone_side": {
-			"textures": "textures/blocks/dripstone/engraved_dripstone_top.png"
+			"textures": "textures/blocks/dripstone/engraved_dripstone_side.png"
 		},
 		"engraved_dripstone_top": {
-			"textures": "textures/blocks/dripstone/engraved_dripstone_side.png"
+			"textures": "textures/blocks/dripstone/engraved_dripstone_top.png"
 		},
 		"dripstone_mossy_bricks": {
 			"textures": "textures/blocks/dripstone/mossy_dripstone_bricks.png"

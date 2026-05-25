@@ -56,22 +56,7 @@
 			},
 			"minecraft:geometry": "minecraft:geometry.full_block",
 			"minecraft:material_instances": {
-				"up": {
-					"texture": "engraved_basalt_top"
-				},
-				"down": {
-					"texture": "basalt_base_top"
-				},
-				"north": {
-					"texture": "chiseled_basalt_bricks_side"
-				},
-				"east": {
-					"texture": "chiseled_basalt_bricks_side"
-				},
-				"west": {
-					"texture": "chiseled_basalt_bricks_side"
-				},
-				"south": {
+				"*": {
 					"texture": "chiseled_basalt_bricks_side"
 				}
 			},
