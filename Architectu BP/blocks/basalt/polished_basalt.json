@@ -57,7 +57,7 @@
 			"minecraft:geometry": "minecraft:geometry.full_block",
 			"minecraft:material_instances": {
 				"*": {
-					"texture": "polished_basalt",
+					"texture": "archt:polished_basalt",
 					"render_method": "alpha_test"
 				}
 			},

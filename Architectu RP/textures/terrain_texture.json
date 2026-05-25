@@ -118,7 +118,7 @@
 		"engraved_basalt_top": {
 			"textures": "textures/blocks/basalt/engraved_basalt_top.png"
 		},
-		"polished_basalt": {
+		"archt:polished_basalt": {
 			"textures": "textures/blocks/basalt/polished_basalt.png"
 		},
 		"smooth_basalt": {
