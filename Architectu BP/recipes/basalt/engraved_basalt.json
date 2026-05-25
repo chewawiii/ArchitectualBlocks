@@ -8,12 +8,12 @@
 		"priority": 2,
 		"ingredients": [
 			{
-				"item": "minecraft:basalt"
+				"item": "minecraft:smooth_basalt"
 			}
 		],
 		"unlock": [
 			{
-				"item": "minecraft:basalt",
+				"item": "minecraft:smooth_basalt",
 				"data": 0
 			}
 		],
