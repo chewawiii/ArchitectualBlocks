@@ -1,17 +1,5 @@
 
-arch:description.name=Architectual Blocks
-
-tile.archt:cut_stone.name=Cut Stone
-tile.archt:broken_stone_tiles.name=Broken Stone Tiles
-tile.archt:dark_stone.name=Dark Stone
-tile.archt:engraved_stone.name=Engraved Stone
-tile.archt:pulished_stone.name=Pulished Stone
-tile.archt:stone_base.name=Stone Base
-tile.archt:stone_capitel.name=Stone Capitel
-tile.archt:stone_pillar.name=Stone Pillar
-tile.archt:stone_tiles.name=Stone Tiles
-
-
+archt:itemGroup.name.andesite=Andesite\n§9Architectual Blocks
 tile.archt:andesite_base.name=Andesite Base
 tile.archt:andesite_bricks.name=Andesite Bricks
 tile.archt:andesite_capital.name=Andesite Capitel
@@ -28,8 +16,53 @@ tile.archt:dark_andesite.name=Dark Andesite
 tile.archt:engraved_andesite.name=Engraved Andesite
 tile.archt:smooth_andesite.name=Smooth Andesite
 
+archt:itemGroup.name.basalt=Basalt\n§9Architectual Blocks
+tile.archt:basalt_base.name=Basalt Base
+tile.archt:basalt_bricks.name=Basalt Bricks
+tile.archt:basalt_capital.name=Basalt Capitel
+tile.archt:basalt_coblestone.name=Basalt Coblestone
+tile.archt:basalt_mossy_bricks.name=Basalt Mossy Bricks
+tile.archt:basalt_mossy_coblestone.name=Basalt Mossy Coblestone
+tile.archt:basalt_pillar.name=Basalt Pillar
+tile.archt:basalt_tiles.name=Basalt Tiles
+tile.archt:broken_basalt_bricks.name=Broken Basalt Bricks
+tile.archt:broken_basalt_tiles.name=Broken Basalt Tiles
+tile.archt:chiseled_basalt_bricks.name=Chiseled Basalt Bricks
+tile.archt:cut_basalt.name=Cut Basalt
+tile.archt:dark_basalt.name=Dark Basalt
+tile.archt:engraved_basalt.name=Engraved Andesite
+tile.archt:polished_basalt.name=Polished Basalt
+tile.archt:smooth_basalt.name=Smooth Basalt
 
+archt:itemGroup.name.calcite=Calcite\n§9Architectual Blocks
+tile.archt:broken_calcite_bricks.name=Broken Calcite Bricks
+tile.archt:broken_calcite_tiles.name=Brocken Calcite Tiles
+tile.archt:calcite_base.name=Calcite Base
+tile.archt:calcite_bricks.name=Calcite Bricks
+tile.archt:calcite_capital.name=Calcite Capitel
+tile.archt:calcite_coblestone.name=Calcite Coblestone
+tile.archt:calcite_mossy_bricks.name=Calcite Mossy Bricks
+tile.archt:calcite_mossy_coblestone.name=Calcite Mossy Coblestone
+tile.archt:calcite_pillar.name=Calcite Pillar
+tile.archt:calcite_tiles.name=Calcite Tiles
+tile.archt:cut_calcite.name=Cut Calcite
+tile.archt:dark_calcite.name=Dark Calcite
+tile.archt:engraved_calcite.name=Engraved Calcite
+tile.archt:polished_calcite.name=Polished Calcite
+tile.archt:smooth_calcite.name=Smooth Calcite
 
+archt:itemGroup.name.deepslate=Deepslate\n§9Architectual Blocks
+tile.archt:chiseled_deepslate_bricks.name=Chiseled Deepslate Bricks
+tile.archt:cut_deepslate.name=Cut Deepslate
+tile.archt:dark_deepslate.name=Dark Deepslate
+tile.archt:deepslate_base.name=Deepslate Base
+tile.archt:deepslate_capital.name=Deepslate Capitel
+tile.archt:deepslate_pillar.name=Deepslate Pillar
+tile.archt:sculk_deepslate_bricks.name=Sculk Deepslate Bricks
+tile.archt:sculk_deepslate_coblestone.name=Sculck Deepslate Coblestone
+tile.archt:smooth_deepslate.name=Smooth Deepslate
+
+archt:itemGroup.name.diorite=Diorite\n§9Architectual Blocks
 tile.archt:broken_diorite_bricks.name=Broken Diorite Bricks
 tile.archt:broken_diorite_tiles.name=Broken Diorite Tiles
 tile.archt:chiseled_diorite_bricks.name=Chiseled Diorite Bricks
@@ -46,9 +79,25 @@ tile.archt:diorite_tiles.name=Diorite Tiles
 tile.archt:engraved_diorite.name=Engraved Diorite
 tile.archt:smooth_diorite.name=Smooth Diorite
 
+archt:itemGroup.name.dripstone=Dripstone\n§9Architectual Blocks
+tile.archt:broken_dripstone_bricks.name=Broken Dripstone Bricks
+tile.archt:broken_dripstone_tiles.name=Broken Dripstone Tiles
+tile.archt:chiseled_dripstone_bricks.name=Chiseled Dripstone Bricks
+tile.archt:cut_dripstone.name=Cut Dripstone
+tile.archt:dark_dripstone.name=Dark Dripstone
+tile.archt:dripstone_base.name=Dripstone Base
+tile.archt:dripstone_bricks.name=Dripstone Bricks
+tile.archt:dripstone_capital.name=Dripstone Capital
+tile.archt:dripstone_coblestone.name=Dripstone Coblestone
+tile.archt:dripstone_mossy_bricks.name=Dripstone Mossy Bricks
+tile.archt:dripstone_mossy_coblestone.name=Dripstone Mossy Coblestone
+tile.archt:dripstone_pillar.name=Dripstone Pillar
+tile.archt:dripstone_tiles.name=Dripstone Tiles
+tile.archt:engraved_dripstone.name=Engraved Dripstone
+tile.archt:polished_dripstone.name=Polished Dripstone
+tile.archt:smooth_dripstone.name=Smooth Dripstone
 
-
-
+archt:itemGroup.name.granite=Granite\n§9Architectual Blocks
 tile.archt:broken_granite_bricks.name=Broken Granite Bricks
 tile.archt:broken_granite_tiles.name=Broken Granite Tiles
 tile.archt:chiseled_granite_bricks.name=Chiseled Granite Bricks
@@ -64,3 +113,28 @@ tile.archt:granite_mossy_bricks.name=Granite Mossy Bricks
 tile.archt:granite_mossy_coblestone.name=Granite Mossy coblestone
 tile.archt:granite_pillar.name=Granite Pillar
 tile.archt:smooth_granite.name=Smooth Granite
+
+archt:itemGroup.name.stone=Stone\n§9Architectual Blocks
+tile.archt:cut_stone.name=Cut Stone
+tile.archt:broken_stone_tiles.name=Broken Stone Tiles
+tile.archt:dark_stone.name=Dark Stone
+tile.archt:engraved_stone.name=Engraved Stone
+tile.archt:pulished_stone.name=Pulished Stone
+tile.archt:stone_base.name=Stone Base
+tile.archt:stone_capitel.name=Stone Capitel
+tile.archt:stone_pillar.name=Stone Pillar
+tile.archt:stone_tiles.name=Stone Tiles
+
+archt:itemGroup.name.tuff=Tuff\n§9Architectual Blocks
+tile.archt:broken_tuff_bricks.name=Broken Tuff Bricks
+tile.archt:broken_tuff_tiles.name=Broken Tuff Tiles
+tile.archt:cut_tuff.name=Cut Tuff
+tile.archt:dark_tuff.name=Dark Tuff
+tile.archt:smooth_tuff.name=Smooth Tuff
+tile.archt:tuff_base.name=Tuff Base
+tile.archt:tuff_capital.name=Tuff Capital
+tile.archt:tuff_coblestone.name=Tuff Coblestone
+tile.archt:tuff_mossy_bricks.name=Tuff Mossy Bricks
+tile.archt:tuff_mossy_coblestone.name=Tuff Mossy Coblestone
+tile.archt:tuff_pillar.name=Tuff Pillar
+tile.archt:tuff_tiles.name=Tuff Tiles

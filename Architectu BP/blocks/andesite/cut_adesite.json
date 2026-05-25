@@ -57,10 +57,10 @@
 			"minecraft:geometry": "minecraft:geometry.full_block",
 			"minecraft:material_instances": {
 				"up": {
-					"texture": "andesite_capital_top"
+					"texture": "cut_andesite_top"
 				},
 				"down": {
-					"texture": "andesite_capital_top"
+					"texture": "cut_andesite_top"
 				},
 				"north": {
 					"texture": "cut_andesite"

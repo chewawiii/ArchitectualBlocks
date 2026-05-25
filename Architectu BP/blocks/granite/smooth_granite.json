@@ -8,7 +8,6 @@
 			}
 		},
 		"components": {
-			"minecraft:display_name": "arch:description.name",
 			"minecraft:collision_box": true,
 			"minecraft:selection_box": true,
 			"minecraft:destructible_by_mining": {

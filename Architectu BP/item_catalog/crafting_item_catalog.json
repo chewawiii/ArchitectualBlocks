@@ -7,7 +7,7 @@
 				"groups": [
 					{
 						"group_identifier": {
-							"icon": "minecraft:andesite",
+							"icon": "archt:andesite_base",
 							"name": "archt:itemGroup.name.andesite"
 						},
 						"items": [
@@ -30,7 +30,7 @@
 					},
 					{
 						"group_identifier": {
-							"icon": "minecraft:basalt",
+							"icon": "archt:basalt_base",
 							"name": "archt:itemGroup.name.basalt"
 						},
 						"items": [
@@ -54,7 +54,7 @@
 					},
 					{
 						"group_identifier": {
-							"icon": "minecraft:calcite",
+							"icon": "archt:calcite_base",
 							"name": "archt:itemGroup.name.calcite"
 						},
 						"items": [
@@ -78,7 +78,7 @@
 					},
 					{
 						"group_identifier": {
-							"icon": "minecraft:deepslate",
+							"icon": "archt:deepslate_base",
 							"name": "archt:itemGroup.name.deepslate"
 						},
 						"items": [
@@ -95,7 +95,7 @@
 					},
 					{
 						"group_identifier": {
-							"icon": "minecraft:diorite",
+							"icon": "archt:diorite_base",
 							"name": "archt:itemGroup.name.diorite"
 						},
 						"items": [
@@ -118,7 +118,7 @@
 					},
 					{
 						"group_identifier": {
-							"icon": "minecraft:dripstone_block",
+							"icon": "archt:dripstone_base",
 							"name": "archt:itemGroup.name.dripstone"
 						},
 						"items": [
@@ -142,7 +142,7 @@
 					},
 					{
 						"group_identifier": {
-							"icon": "minecraft:granite",
+							"icon": "archt:granite_base",
 							"name": "archt:itemGroup.name.granite"
 						},
 						"items": [
@@ -165,7 +165,7 @@
 					},
 					{
 						"group_identifier": {
-							"icon": "minecraft:stone",
+							"icon": "archt:stone_base",
 							"name": "archt:itemGroup.name.stone"
 						},
 						"items": [
@@ -182,7 +182,7 @@
 					},
 					{
 						"group_identifier": {
-							"icon": "minecraft:tuff",
+							"icon": "archt:tuff_base",
 							"name": "archt:itemGroup.name.tuff"
 						},
 						"items": [

@@ -57,10 +57,10 @@
 			"minecraft:geometry": "minecraft:geometry.full_block",
 			"minecraft:material_instances": {
 				"up": {
-					"texture": "stone_capital_top"
+					"texture": "cut_stone_top"
 				},
 				"down": {
-					"texture": "stone_capital_top"
+					"texture": "cut_stone_top"
 				},
 				"north": {
 					"texture": "cut_stone"

@@ -1,17 +1,5 @@
 
-arch:description.name=Architectual Blocks
-
-tile.archt:cut_stone.name=Piedra Cortada
-tile.archt:broken_stone_tiles.name=Baldosas rotas de Piedra
-tile.archt:dark_stone.name=Piedra Oscura
-tile.archt:engraved_stone.name=Piedra Gravada
-tile.archt:pulished_stone.name=Piedra Pulida
-tile.archt:stone_base.name=Base de Piedra
-tile.archt:stone_capitel.name=Capitel de Piedra
-tile.archt:stone_pillar.name=Pilar de Piedra
-tile.archt:stone_tiles.name=Baldosas de Piedra
-
-
+archt:itemGroup.name.andesite=Andesita\n§9Architectual Blocks
 tile.archt:andesite_base.name=Base de Andesita
 tile.archt:andesite_bricks.name=Ladrillos de Andesita
 tile.archt:andesite_capital.name=Capitel de Andesita
@@ -28,9 +16,55 @@ tile.archt:dark_andesite.name=Andesita Oscura
 tile.archt:engraved_andesite.name=Andesita Gravada
 tile.archt:smooth_andesite.name=Andesita Lisa
 
+archt:itemGroup.name.basalt=Basalto\n§9Architectual Blocks
+tile.archt:basalt_base.name=Base de Basalto
+tile.archt:basalt_bricks.name=Ladrillos de Basalto
+tile.archt:basalt_capital.name=Capitel de Basalto
+tile.archt:basalt_coblestone.name=Adoquin de Basalto
+tile.archt:basalt_mossy_bricks.name=Ladrillos Musgosos de Basalto
+tile.archt:basalt_mossy_coblestone.name=Adoquin Musgoso de Basalto
+tile.archt:basalt_pillar.name=Pilar de Basalto
+tile.archt:basalt_tiles.name=Baldosas de Basalto
+tile.archt:broken_basalt_bricks.name=Ladrillos Rotos de Basalto
+tile.archt:broken_basalt_tiles.name=Baldosas Rotas de Basalto
+tile.archt:chiseled_basalt_bricks.name=Ladrillos Cindelados de Basalto
+tile.archt:cut_basalt.name=Basalto Cortado
+tile.archt:dark_basalt.name=Basalto Oscuro
+tile.archt:engraved_basalt.name=Basalto Gravado
+tile.archt:polished_basalt.name=Basalto Pulido
+tile.archt:smooth_basalt.name=Basalto Liso
 
-tile.archt:broken_diorite_bricks.name=Ladrillos rotos de Diorita
-tile.archt:broken_diorite_tiles.name=Baldosa rota de Diorita
+archt:itemGroup.name.calcite=Calcita\n§9Architectual Blocks
+tile.archt:broken_calcite_bricks.name=Ladrillos Rotos de Calcita
+tile.archt:broken_calcite_tiles.name=Baldosas Rotas de Calcita
+tile.archt:calcite_base.name=Base de Calcita
+tile.archt:calcite_bricks.name=Ladrillos de Calcita
+tile.archt:calcite_capital.name=Capitel de Calcita
+tile.archt:calcite_coblestone.name=Adoquin de Calcita
+tile.archt:calcite_mossy_bricks.name=Ladrillos Musgosos de Calcita
+tile.archt:calcite_mossy_coblestone.name=Adoquin Musgoso de Calcita
+tile.archt:calcite_pillar.name=Pilar de Calcita
+tile.archt:calcite_tiles.name=Baldosas de Calcita
+tile.archt:cut_calcite.name=Calcita Cortada
+tile.archt:dark_calcite.name=Calcita Oscura
+tile.archt:engraved_calcite.name=Calcita Gravada
+tile.archt:polished_calcite.name=Calcita Pulida
+tile.archt:smooth_calcite.name=Calcita Lisa
+
+archt:itemGroup.name.deepslate=Pizarra Abismal\n§9Architectual Blocks
+tile.archt:chiseled_deepslate_bricks.name=Ladrillos Cincelados de Pizarra Abismal
+tile.archt:cut_deepslate.name=Pizarra Abismal Cortada
+tile.archt:dark_deepslate.name=Pizarra Abismal Oscura
+tile.archt:deepslate_base.name=Base de Pizarra Abismal
+tile.archt:deepslate_capital.name=Capitel de Pizarra Abismal
+tile.archt:deepslate_pillar.name=Pilar de Pizarra Abismal
+tile.archt:sculk_deepslate_bricks.name=Ladrillos de Pizarra Abismal de Sculk
+tile.archt:sculk_deepslate_coblestone.name=Adoquin de Pizarra Abismal de Sculk
+tile.archt:smooth_deepslate.name=Pizarra Abismal Lisa
+
+archt:itemGroup.name.diorite=Diorita\n§9Architectual Blocks
+tile.archt:broken_diorite_bricks.name=Ladrillos Rotos de Diorita
+tile.archt:broken_diorite_tiles.name=Baldosa Rota de Diorita
 tile.archt:chiseled_diorite_bricks.name=Ladrillo Cincelado de Diorita
 tile.archt:cut_diorite.name=Diorita Cortada
 tile.archt:dark_diorite.name=Diorita Oscura
@@ -45,8 +79,26 @@ tile.archt:diorite_tiles.name=Baldosas de Diorita
 tile.archt:engraved_diorite.name=Diorita Gravada
 tile.archt:smooth_diorite.name=Diorita Lisa
 
+archt:itemGroup.name.dripstone=Estalactita\n§9Architectual Blocks
+tile.archt:broken_dripstone_bricks.name=Ladrillos Rotos de Estalactita
+tile.archt:broken_dripstone_tiles.name=Baldosas Rotas de Estalactita
+tile.archt:chiseled_dripstone_bricks.name=Ladrillos Cincelados de Estalactita
+tile.archt:cut_dripstone.name=Estalactita Cortada
+tile.archt:dark_dripstone.name=Estalactita Oscura
+tile.archt:dripstone_base.name=Base de Estalactita
+tile.archt:dripstone_bricks.name=Ladrillos de Estalactita
+tile.archt:dripstone_capital.name=Capitel de Estalactita
+tile.archt:dripstone_coblestone.name=Adoquin de Estalactita
+tile.archt:dripstone_mossy_bricks.name=Ladrillos Musgosos de Estalactita
+tile.archt:dripstone_mossy_coblestone.name=Adoquin Musgoso de Estalactita
+tile.archt:dripstone_pillar.name=Pillar de Estalactita
+tile.archt:dripstone_tiles.name=Baldosas de Estalactita
+tile.archt:engraved_dripstone.name=Estalactita Gravada
+tile.archt:polished_dripstone.name=Estalactita Pulida
+tile.archt:smooth_dripstone.name=Estalactita Lisa
 
-tile.archt:broken_granite_bricks.name=Ladrillos rotos de Granito
+archt:itemGroup.name.granite=Granito\n§9Architectual Blocks
+tile.archt:broken_granite_bricks.name=Ladrillos Rotos de Granito
 tile.archt:broken_granite_tiles.name=Baldosas Rotas de Granito
 tile.archt:chiseled_granite_bricks.name=Ladrillos Cinceados de Granito
 tile.archt:cut_granite.name=Granito Cortado
@@ -61,3 +113,28 @@ tile.archt:granite_mossy_bricks.name=Ladrillos Musgosos de Granito
 tile.archt:granite_mossy_coblestone.name=Adoquines Musgosos de Granito
 tile.archt:granite_pillar.name=Pilar de Granito
 tile.archt:smooth_granite.name=Granito Liso
+
+archt:itemGroup.name.stone=Piedra\n§9Architectual Blocks
+tile.archt:cut_stone.name=Piedra Cortada
+tile.archt:broken_stone_tiles.name=Baldosas Rotas de Piedra
+tile.archt:dark_stone.name=Piedra Oscura
+tile.archt:engraved_stone.name=Piedra Gravada
+tile.archt:pulished_stone.name=Piedra Pulida
+tile.archt:stone_base.name=Base de Piedra
+tile.archt:stone_capitel.name=Capitel de Piedra
+tile.archt:stone_pillar.name=Pilar de Piedra
+tile.archt:stone_tiles.name=Baldosas de Piedra
+
+archt:itemGroup.name.tuff=Toba\n§9Architectual Blocks
+tile.archt:broken_tuff_bricks.name=Ladrillos Rotos de Toba
+tile.archt:broken_tuff_tiles.name=Baldosas Rotas de Toba
+tile.archt:cut_tuff.name=Toba Cortada
+tile.archt:dark_tuff.name=Toba Oscura
+tile.archt:smooth_tuff.name=Toba Lisa
+tile.archt:tuff_base.name=Base de Toba
+tile.archt:tuff_capital.name=Capitel de Toba
+tile.archt:tuff_coblestone.name=Adoquin de Toba
+tile.archt:tuff_mossy_bricks.name=Ladrillos Musgosos de Toba
+tile.archt:tuff_mossy_coblestone.name=Adoquin Musgoso de Toba
+tile.archt:tuff_pillar.name=Pilar de Toba
+tile.archt:tuff_tiles.name=Baldosas de Toba

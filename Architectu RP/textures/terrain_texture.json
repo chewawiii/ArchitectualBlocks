@@ -47,6 +47,9 @@
 		"chiseled_andesite_bricks": {
 			"textures": "textures/blocks/andesite/chiseled_andesite_bricks.png"
 		},
+		"cut_andesite_top": {
+			"textures": "textures/blocks/andesite/cut_andesite_top.png"
+		},
 		"cut_andesite": {
 			"textures": "textures/blocks/andesite/cut_andesite.png"
 		},
@@ -229,6 +232,9 @@
 		"chiseled_diorite_bricks_top": {
 			"textures": "textures/blocks/diorite/chiseled_diorite_bricks_top.png"
 		},
+		"cut_diorite_top": {
+			"textures": "textures/blocks/diorite/cut_diorite_top.png"
+		},
 		"cut_diorite": {
 			"textures": "textures/blocks/diorite/cut_diorite.png"
 		},
@@ -347,6 +353,9 @@
 		"chiseled_granite_bricks_top": {
 			"textures": "textures/blocks/granite/chiseled_granite_bricks_top.png"
 		},
+		"cut_granite_top": {
+			"textures": "textures/blocks/granite/cut_granite_top.png"
+		},
 		"cut_granite": {
 			"textures": "textures/blocks/granite/cut_granite.png"
 		},
@@ -397,6 +406,9 @@
 		"broken_stone_tiles": {
 			"textures": "textures/blocks/stone/broken_stone_tiles.png"
 		},
+		"cut_stone_top": {
+			"textures": "textures/blocks/stone/cut_stone_top.png"
+		},
 		"cut_stone": {
 			"textures": "textures/blocks/stone/cut_stone.png"
 		},
@@ -409,8 +421,8 @@
 		"engraved_stone_top": {
 			"textures": "textures/blocks/stone/engraved_stone_top.png"
 		},
-		"pulished_stone": {
-			"textures": "textures/blocks/stone/pulished_stone.png"
+		"polished_stone": {
+			"textures": "textures/blocks/stone/polished_stone.png"
 		},
 		"stone_base_side": {
 			"textures": "textures/blocks/stone/stone_base_side.png"
