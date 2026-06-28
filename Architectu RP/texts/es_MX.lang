@@ -120,9 +120,9 @@ tile.archt:cut_stone.name=Piedra Cortada
 tile.archt:broken_stone_tiles.name=Baldosas Rotas de Piedra
 tile.archt:dark_stone.name=Piedra Oscura
 tile.archt:engraved_stone.name=Piedra Gravada
-tile.archt:pulished_stone.name=Piedra Pulida
+tile.archt:polished_stone.name=Piedra Pulida
 tile.archt:stone_base.name=Base de Piedra
-tile.archt:stone_capitel.name=Capitel de Piedra
+tile.archt:stone_capital.name=Capitel de Piedra
 tile.archt:stone_pillar.name=Pilar de Piedra
 tile.archt:stone_tiles.name=Baldosas de Piedra
 
