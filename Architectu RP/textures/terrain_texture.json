@@ -184,6 +184,59 @@
 			"textures": "textures/blocks/calcite/smooth_calcite.png"
 		},
 
+		// CINNABAR BLOCKS
+		"broken_cinnabar_bricks": {
+			"textures": "textures/blocks/cinnabar/broken_cinnabar_bricks.png"
+		},
+		"broken_cinnabar_tiles": {
+			"textures": "textures/blocks/cinnabar/broken_cinnabar_tiles.png"
+		},
+		"chiseled_cinnabar_bricks": {
+			"textures": "textures/blocks/cinnabar/chiseled_cinnabar_bricks.png"
+		},
+		"cinnabar_base": {
+			"textures": "textures/blocks/cinnabar/cinnabar_base.png"
+		},
+		"cinnabar_capital": {
+			"textures": "textures/blocks/cinnabar/cinnabar_capital.png"
+		},
+		"cinnabar_cobblestone": {
+			"textures": "textures/blocks/cinnabar/cinnabar_cobblestone.png"
+		},
+		"cinnabar_pillar": {
+			"textures": "textures/blocks/cinnabar/cinnabar_pillar.png"
+		},
+		"cinnabar_pillar_top": {
+			"textures": "textures/blocks/cinnabar/cinnabar_pillar_top.png"
+		},
+		"cinnabar_tiles": {
+			"textures": "textures/blocks/cinnabar/cinnabar_tiles.png"
+		},
+		"cut_cinnabar": {
+			"textures": "textures/blocks/cinnabar/cut_cinnabar.png"
+		},
+		"cut_cinnabar_top": {
+			"textures": "textures/blocks/cinnabar/cut_cinnabar_top.png"
+		},
+		"dark_cinnabar": {
+			"textures": "textures/blocks/cinnabar/dark_cinnabar.png"
+		},
+		"engraved_cinnabar": {
+			"textures": "textures/blocks/cinnabar/engraved_cinnabar.png"
+		},
+		"engraved_cinnabar_top": {
+			"textures": "textures/blocks/cinnabar/engraved_cinnabar_top.png"
+		},
+		"mossy_cinnabar_bricks": {
+			"textures": "textures/blocks/cinnabar/mossy_cinnabar_bricks.png"
+		},
+		"mossy_cinnabar_cobblestone": {
+			"textures": "textures/blocks/cinnabar/mossy_cinnabar_cobblestone.png"
+		},
+		"smooth_cinnabar": {
+			"textures": "textures/blocks/cinnabar/smooth_cinnabar.png"
+		},
+
 		// DEEPSLATE BLOCKS
 		"chiseled_deepslate_bricks": {
 			"textures": "textures/blocks/deepslate/chiseled_deepslate_bricks.png"
@@ -447,6 +500,59 @@
 		},
 		"stone_tiles": {
 			"textures": "textures/blocks/stone/stone_tiles.png"
+		},
+
+		// SULFUR BLOCKS
+		"broken_sulfur_bricks": {
+			"textures": "textures/blocks/sulfur/broken_sulfur_bricks.png"
+		},
+		"broken_sulfur_tiles": {
+			"textures": "textures/blocks/sulfur/broken_sulfur_tiles.png"
+		},
+		"chiseled_sulfur_bricks": {
+			"textures": "textures/blocks/sulfur/chiseled_sulfur_bricks.png"
+		},
+		"cut_sulfur": {
+			"textures": "textures/blocks/sulfur/cut_sulfur.png"
+		},
+		"cut_sulfur_top": {
+			"textures": "textures/blocks/sulfur/cut_sulfur_top.png"
+		},
+		"dark_sulfur": {
+			"textures": "textures/blocks/sulfur/dark_sulfur.png"
+		},
+		"engraved_sulfur": {
+			"textures": "textures/blocks/sulfur/engraved_sulfur.png"
+		},
+		"engraved_sulfur_top": {
+			"textures": "textures/blocks/sulfur/engraved_sulfur_top.png"
+		},
+		"mossy_sulfur_bricks": {
+			"textures": "textures/blocks/sulfur/mossy_sulfur_bricks.png"
+		},
+		"mossy_sulfur_cobblestone": {
+			"textures": "textures/blocks/sulfur/mossy_sulfur_cobblestone.png"
+		},
+		"smooth_sulfur": {
+			"textures": "textures/blocks/sulfur/smooth_sulfur.png"
+		},
+		"sulfur_base": {
+			"textures": "textures/blocks/sulfur/sulfur_base.png"
+		},
+		"sulfur_capital": {
+			"textures": "textures/blocks/sulfur/sulfur_capital.png"
+		},
+		"sulfur_cobblestone": {
+			"textures": "textures/blocks/sulfur/sulfur_cobblestone.png"
+		},
+		"sulfur_pillar": {
+			"textures": "textures/blocks/sulfur/sulfur_pillar.png"
+		},
+		"sulfur_pillar_top": {
+			"textures": "textures/blocks/sulfur/sulfur_pillar_top.png"
+		},
+		"sulfur_tiles": {
+			"textures": "textures/blocks/sulfur/sulfur_tiles.png"
 		},
 
 		// TUFF BLOCKS
