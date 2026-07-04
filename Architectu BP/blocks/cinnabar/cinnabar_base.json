@@ -57,7 +57,7 @@
 			"minecraft:geometry": "minecraft:geometry.full_block",
 			"minecraft:material_instances": {
 				"up": {
-					"texture": "cinnabar_base"
+					"texture": "cinnabar_pillar_top"
 				},
 				"down": {
 					"texture": "cinnabar_pillar_top"

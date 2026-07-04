@@ -57,7 +57,7 @@
 			"minecraft:geometry": "minecraft:geometry.full_block",
 			"minecraft:material_instances": {
 				"up": {
-					"texture": "stone_capital_top"
+					"texture": "smooth_stone"
 				},
 				"down": {
 					"texture": "stone_base_top"

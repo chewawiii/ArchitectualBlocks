@@ -57,7 +57,7 @@
 			"minecraft:geometry": "minecraft:geometry.full_block",
 			"minecraft:material_instances": {
 				"up": {
-					"texture": "sulfur_base"
+					"texture": "sulfur_pillar_top"
 				},
 				"down": {
 					"texture": "sulfur_pillar_top"

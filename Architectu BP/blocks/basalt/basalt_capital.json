@@ -57,7 +57,7 @@
 			"minecraft:geometry": "minecraft:geometry.full_block",
 			"minecraft:material_instances": {
 				"up": {
-					"texture": "smooth_basalt"
+					"texture": "archt:smooth_basalt"
 				},
 				"down": {
 					"texture": "basalt_base_top"

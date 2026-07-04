@@ -57,7 +57,7 @@
 			"minecraft:geometry": "minecraft:geometry.full_block",
 			"minecraft:material_instances": {
 				"up": {
-					"texture": "diorite_capital_top"
+					"texture": "smooth_diorite"
 				},
 				"down": {
 					"texture": "diorite_base_top"
