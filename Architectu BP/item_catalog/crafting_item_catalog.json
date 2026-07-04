@@ -78,6 +78,28 @@
 					},
 					{
 						"group_identifier": {
+							"icon": "archt:cinnabar_base",
+							"name": "archt:itemGroup.name.cinnabar"
+						},
+						"items": [
+							"archt:broken_cinnabar_bricks",
+							"archt:broken_cinnabar_tiles",
+							"archt:chiseled_cinnabar_bricks",
+							"archt:cinnabar_base",
+							"archt:cinnabar_capital",
+							"archt:cinnabar_cobblestone",
+							"archt:cinnabar_pillar",
+							"archt:cinnabar_tiles",
+							"archt:cut_cinnabar",
+							"archt:dark_cinnabar",
+							"archt:engraved_cinnabar",
+							"archt:mossy_cinnabar_bricks",
+							"archt:mossy_cinnabar_cobblestone",
+							"archt:smooth_cinnabar"
+						]
+					},
+					{
+						"group_identifier": {
 							"icon": "archt:deepslate_base",
 							"name": "archt:itemGroup.name.deepslate"
 						},
@@ -178,6 +200,28 @@
 							"archt:stone_capital",
 							"archt:stone_pillar",
 							"archt:stone_tiles"
+						]
+					},
+					{
+						"group_identifier": {
+							"icon": "archt:sulfur_base",
+							"name": "archt:itemGroup.name.sulfur"
+						},
+						"items": [
+							"archt:broken_sulfur_bricks",
+							"archt:broken_sulfur_tiles",
+							"archt:chiseled_sulfur_bricks",
+							"archt:cut_sulfur",
+							"archt:dark_sulfur",
+							"archt:engraved_sulfur",
+							"archt:mossy_sulfur_bricks",
+							"archt:mossy_sulfur_cobblestone",
+							"archt:smooth_sulfur",
+							"archt:sulfur_base",
+							"archt:sulfur_capital",
+							"archt:sulfur_cobblestone",
+							"archt:sulfur_pillar",
+							"archt:sulfur_tiles"
 						]
 					},
 					{

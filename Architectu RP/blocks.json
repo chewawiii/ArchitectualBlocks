@@ -148,6 +148,50 @@
 		"sound": "calcite"
 	},
 
+	// Cinnabar
+	"archt:broken_cinnabar_bricks": {
+		"sound": "cinnabar"
+	},
+	"archt:broken_cinnabar_tiles": {
+		"sound": "cinnabar"
+	},
+	"archt:chiseled_cinnabar_bricks": {
+		"sound": "cinnabar"
+	},
+	"archt:cinnabar_base": {
+		"sound": "cinnabar"
+	},
+	"archt:cinnabar_capital": {
+		"sound": "cinnabar"
+	},
+	"archt:cinnabar_cobblestone": {
+		"sound": "cinnabar"
+	},
+	"archt:cinnabar_pillar": {
+		"sound": "cinnabar"
+	},
+	"archt:cinnabar_tiles": {
+		"sound": "cinnabar"
+	},
+	"archt:cut_cinnabar": {
+		"sound": "cinnabar"
+	},
+	"archt:dark_cinnabar": {
+		"sound": "cinnabar"
+	},
+	"archt:engraved_cinnabar": {
+		"sound": "cinnabar"
+	},
+	"archt:mossy_cinnabar_bricks": {
+		"sound": "cinnabar"
+	},
+	"archt:mossy_cinnabar_cobblestone": {
+		"sound": "cinnabar"
+	},
+	"archt:smooth_cinnabar": {
+		"sound": "cinnabar"
+	},
+
 	// Deepslate
 	"archt:chiseled_deepslate_bricks": {
 		"sound": "deepslate"
@@ -348,6 +392,50 @@
 	},
 	"archt:stone_tiles": {
 		"sound": "stone"
+	},
+
+	// Sulfur
+	"archt:broken_sulfur_bricks": {
+		"sound": "sulfur"
+	},
+	"archt:broken_sulfur_tiles": {
+		"sound": "sulfur"
+	},
+	"archt:chiseled_sulfur_bricks": {
+		"sound": "sulfur"
+	},
+	"archt:cut_sulfur": {
+		"sound": "sulfur"
+	},
+	"archt:dark_sulfur": {
+		"sound": "sulfur"
+	},
+	"archt:engraved_sulfur": {
+		"sound": "sulfur"
+	},
+	"archt:mossy_sulfur_bricks": {
+		"sound": "sulfur"
+	},
+	"archt:mossy_sulfur_cobblestone": {
+		"sound": "sulfur"
+	},
+	"archt:smooth_sulfur": {
+		"sound": "sulfur"
+	},
+	"archt:sulfur_base": {
+		"sound": "sulfur"
+	},
+	"archt:sulfur_capital": {
+		"sound": "sulfur"
+	},
+	"archt:sulfur_cobblestone": {
+		"sound": "sulfur"
+	},
+	"archt:sulfur_pillar": {
+		"sound": "sulfur"
+	},
+	"archt:sulfur_tiles": {
+		"sound": "sulfur"
 	},
 
 	// Tuff

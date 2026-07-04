@@ -52,6 +52,23 @@ tile.archt:engraved_calcite.name=Calcita Gravada
 tile.archt:polished_calcite.name=Calcita Pulida
 tile.archt:smooth_calcite.name=Calcita Lisa
 
+archt:itemGroup.name.cinnabar=Cinabrio\n§9Architectual Blocks
+tile.archt:broken_cinnabar_bricks.name=Ladrillos Rotos de Cinabrio
+tile.archt:broken_cinnabar_tiles.name=Baldosas Rotas de Cinabrio
+tile.archt:cinnabar_base.name=Base de Cinabrio
+tile.archt:cinnabar_bricks.name=Ladrillos de Cinabrio
+tile.archt:cinnabar_capital.name=Capitel de Cinabrio
+tile.archt:cinnabar_cobblestone.name=Adoquin de Cinabrio
+tile.archt:cinnabar_pillar.name=Pilar de Cinabrio
+tile.archt:cinnabar_tiles.name=Baldosas de Cinabrio
+tile.archt:chiseled_cinnabar_bricks.name=Ladrillos Cincelados de Cinabrio
+tile.archt:cut_cinnabar.name=Cinabrio Cortado
+tile.archt:dark_cinnabar.name=Cinabrio Oscuro
+tile.archt:engraved_cinnabar.name=Cinabrio Gravado
+tile.archt:mossy_cinnabar_bricks.name=Ladrillos Musgosos de Cinabrio
+tile.archt:mossy_cinnabar_cobblestone.name=Adoquin Musgoso de Cinabrio
+tile.archt:smooth_cinnabar.name=Cinabrio Liso
+
 archt:itemGroup.name.deepslate=Pizarra Abismal\n§9Architectual Blocks
 tile.archt:chiseled_deepslate_bricks.name=Ladrillos Cincelados de Pizarra Abismal
 tile.archt:cut_deepslate.name=Pizarra Abismal Cortada
@@ -125,6 +142,22 @@ tile.archt:stone_base.name=Base de Piedra
 tile.archt:stone_capital.name=Capitel de Piedra
 tile.archt:stone_pillar.name=Pilar de Piedra
 tile.archt:stone_tiles.name=Baldosas de Piedra
+
+archt:itemGroup.name.sulfur=Sulfur\n§9Architectual Blocks
+tile.archt:broken_sulfur_bricks.name=Ladrillos Rotos de Azufre
+tile.archt:broken_sulfur_tiles.name=Baldosas Rotas de Azufre
+tile.archt:chiseled_sulfur_bricks.name=Ladrillos Cincelados de Azufre
+tile.archt:cut_sulfur.name=Azufre Cortado
+tile.archt:dark_sulfur.name=Azufre Oscuro
+tile.archt:engraved_sulfur.name=Azufre Gravado
+tile.archt:mossy_sulfur_bricks.name=Ladrillos Musgosos de Azufre
+tile.archt:mossy_sulfur_cobblestone.name=Adoquin Musgoso de Azufre
+tile.archt:smooth_sulfur.name=Azufre Liso
+tile.archt:sulfur_base.name=Azufre Base
+tile.archt:sulfur_capital.name=Azufre Capitel
+tile.archt:sulfur_cobblestone.name=Adoquin de Azufre
+tile.archt:sulfur_pillar.name=Pilar de Azufre
+tile.archt:sulfur_tiles.name=Baldosas de Azufre
 
 archt:itemGroup.name.tuff=Toba\n§9Architectual Blocks
 tile.archt:broken_tuff_bricks.name=Ladrillos Rotos de Toba
