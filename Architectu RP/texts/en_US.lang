@@ -16,14 +16,13 @@ tile.archt:dark_andesite.name=Dark Andesite
 tile.archt:engraved_andesite.name=Engraved Andesite
 tile.archt:smooth_andesite.name=Smooth Andesite
 
-
 archt:itemGroup.name.basalt=Basalt\n§9Architectual Blocks
 tile.archt:basalt_base.name=Basalt Base
 tile.archt:basalt_bricks.name=Basalt Bricks
 tile.archt:basalt_capital.name=Basalt Capitel
 tile.archt:basalt_coblestone.name=Basalt Coblestone
 tile.archt:basalt_mossy_bricks.name=Mossy Basalt Bricks
-tile.archt:basalt_mossy_coblestone.name=Mossy Basalt Coblestone
+tile.archt:basalt_mossy_coblestone.name=Mossy Basalt Cobblestone
 tile.archt:basalt_pillar.name=Basalt Pillar
 tile.archt:basalt_tiles.name=Basalt Tiles
 tile.archt:broken_basalt_bricks.name=Broken Basalt Bricks
