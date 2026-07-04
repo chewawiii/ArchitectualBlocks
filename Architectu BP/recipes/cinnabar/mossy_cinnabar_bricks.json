@@ -2,23 +2,23 @@
 	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
 		"description": {
-			"identifier": "archt:polished_calcite"
+			"identifier": "archt:mossy_cinnabar_bricks"
 		},
 		"tags": ["stonecutter"],
 		"priority": 2,
 		"ingredients": [
 			{
-				"item": "minecraft:calcite"
+				"item": "minecraft:cinnabar"
 			}
 		],
 		"unlock": [
 			{
-				"item": "minecraft:calcite",
+				"item": "minecraft:cinnabar",
 				"data": 0
 			}
 		],
 		"result": {
-			"item": "archt:polished_calcite",
+			"item": "archt:mossy_cinnabar_bricks",
 			"count": 1
 		}
 	}

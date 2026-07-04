@@ -2,23 +2,23 @@
 	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
 		"description": {
-			"identifier": "archt:chiseled_calcite_bricks"
+			"identifier": "archt:smooth_sulfur"
 		},
 		"tags": ["stonecutter"],
 		"priority": 2,
 		"ingredients": [
 			{
-				"item": "minecraft:calcite"
+				"item": "minecraft:sulfur"
 			}
 		],
 		"unlock": [
 			{
-				"item": "minecraft:calcite",
+				"item": "minecraft:sulfur",
 				"data": 0
 			}
 		],
 		"result": {
-			"item": "archt:chiseled_calcite_bricks",
+			"item": "archt:smooth_sulfur",
 			"count": 1
 		}
 	}

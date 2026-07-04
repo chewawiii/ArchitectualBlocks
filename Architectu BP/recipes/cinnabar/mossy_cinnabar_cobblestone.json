@@ -2,23 +2,23 @@
 	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
 		"description": {
-			"identifier": "archt:calcite_tiles"
+			"identifier": "archt:mossy_cinnabar_cobblestone"
 		},
 		"tags": ["stonecutter"],
 		"priority": 2,
 		"ingredients": [
 			{
-				"item": "minecraft:calcite"
+				"item": "minecraft:cinnabar"
 			}
 		],
 		"unlock": [
 			{
-				"item": "minecraft:calcite",
+				"item": "minecraft:cinnabar",
 				"data": 0
 			}
 		],
 		"result": {
-			"item": "archt:calcite_tiles",
+			"item": "archt:mossy_cinnabar_cobblestone",
 			"count": 1
 		}
 	}
