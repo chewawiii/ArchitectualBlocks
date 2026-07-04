@@ -16,6 +16,7 @@ tile.archt:dark_andesite.name=Dark Andesite
 tile.archt:engraved_andesite.name=Engraved Andesite
 tile.archt:smooth_andesite.name=Smooth Andesite
 
+<<<<<<< HEAD
 archt:itemGroup.name.basalt=Basalt\n§9Architectual Blocks
 tile.archt:basalt_base.name=Basalt Base
 tile.archt:basalt_bricks.name=Basalt Bricks
@@ -33,6 +34,25 @@ tile.archt:dark_basalt.name=Dark Basalt
 tile.archt:engraved_basalt.name=Engraved Basalt
 tile.archt:polished_basalt.name=Polished Basalt
 tile.archt:smooth_basalt.name=Smooth Basalt
+=======
+archt:itemGroup.name.basalt=Smooth Basalt\n§9Architectual Blocks
+tile.archt:basalt_base.name=Smooth Basalt Base
+tile.archt:basalt_bricks.name=Smooth Basalt Bricks
+tile.archt:basalt_capital.name=Smooth Basalt Capitel
+tile.archt:basalt_coblestone.name=Smooth Basalt Coblestone
+tile.archt:basalt_mossy_bricks.name=Mossy Smooth Basalt Bricks
+tile.archt:basalt_mossy_coblestone.name=Mossy Smooth Basalt Coblestone
+tile.archt:basalt_pillar.name=Smooth Basalt Pillar
+tile.archt:basalt_tiles.name=Smooth Basalt Tiles
+tile.archt:broken_basalt_bricks.name=Broken Smooth Basalt Bricks
+tile.archt:broken_basalt_tiles.name=Broken Smooth Basalt Tiles
+tile.archt:chiseled_basalt_bricks.name=Chiseled Smooth Basalt Bricks
+tile.archt:cut_basalt.name=Cut Smooth Basalt
+tile.archt:dark_basalt.name=Dark Smooth Basalt
+tile.archt:engraved_basalt.name=Engraved Andesite
+tile.archt:polished_basalt.name=Polished Smooth Basalt
+tile.archt:smooth_basalt.name=Smooth Smooth Basalt
+>>>>>>> ff8049cb1bd326c18b09129738bc4118114f601e
 
 archt:itemGroup.name.calcite=Calcite\n§9Architectual Blocks
 tile.archt:broken_calcite_bricks.name=Broken Calcite Bricks
@@ -53,6 +73,7 @@ tile.archt:polished_calcite.name=Polished Calcite
 tile.archt:smooth_calcite.name=Smooth Calcite
 
 archt:itemGroup.name.cinnabar=Cinnabar\n§9Architectual Blocks
+<<<<<<< HEAD
 tile.archt:broken_cinnabar_bricks.name=Broken Cinnabar Bricks
 tile.archt:broken_cinnabar_tiles.name=Broken Cinnabar Tiles
 tile.archt:chiseled_cinnabar_bricks.name=Chiseled Cinnabar Bricks
@@ -67,6 +88,22 @@ tile.archt:engraved_cinnabar.name=Engraved Cinnabar
 tile.archt:mossy_cinnabar_bricks.name=Mossy Cinnabar Bricks
 tile.archt:mossy_cinnabar_cobblestone.name=Mossy Cinnabar Coblestone
 tile.archt:smooth_cinnabar.name=Smooth Cinnabar
+=======
+tile.archt:broken_cinnabar_bricks=Broken Cinnabar Bricks
+tile.archt:broken_cinnabar_tiles=Broken Cinnabar Tiles
+tile.archt:chiseled_cinnabar_bricks=Chiseled Cinnabar Bricks
+tile.archt:cinnabar_base=Cinnabar Base
+tile.archt:cinnabar_capital=Cinnabar Capitel
+tile.archt:cinnabar_cobblestone=Cinnabar Coblestone
+tile.archt:cinnabar_pillar=Cinnabar Pillar
+tile.archt:cinnabar_tiles=Cinnabar Tiles
+tile.archt:cut_cinnabar=Cut Cinnabar
+tile.archt:dark_cinnabar=Dark Cinnabar
+tile.archt:engraved_cinnabar=Engraved Cinnabar
+tile.archt:mossy_cinnabar_bricks=Mossy Cinnabar Bricks
+tile.archt:mossy_cinnabar_cobblestone=Mossy Cinnabar Coblestone
+tile.archt:smooth_cinnabar=Smooth Cinnabar
+>>>>>>> ff8049cb1bd326c18b09129738bc4118114f601e
 
 archt:itemGroup.name.deepslate=Deepslate\n§9Architectual Blocks
 tile.archt:chiseled_deepslate_bricks.name=Chiseled Deepslate Bricks
@@ -142,6 +179,7 @@ tile.archt:stone_capitel.name=Stone Capitel
 tile.archt:stone_pillar.name=Stone Pillar
 tile.archt:stone_tiles.name=Stone Tiles
 
+<<<<<<< HEAD
 archt:itemGroup.name.sulfur.name=Sulfur\n§9Architectual Blocks
 tile.archt:broken_sulfur_bricks.name=Broken Sulfur Bricks
 tile.archt:broken_sulfur_tiles.name=Broken Sulfur Tiles
@@ -157,6 +195,23 @@ tile.archt:sulfur_capital.name=Sulfur Capital
 tile.archt:sulfur_cobblestone.name=Sulfur Coblestone
 tile.archt:sulfur_pillar.name=Sulfur Pillar
 tile.archt:sulfur_tiles.name=Sulfur Tiles
+=======
+archt:itemGroup.name.sulfur=Sulfur\n§9Architectual Blocks
+tile.archt:broken_sulfur_bricks=Broken Sulfur Bricks
+tile.archt:broken_sulfur_tiles=Broken Sulfur Tiles
+tile.archt:chiseled_sulfur_bricks=Chiseled Sulfur Bricks
+tile.archt:cut_sulfur=Cut Sulfur
+tile.archt:dark_sulfur=Dark Sulfur
+tile.archt:engraved_sulfur=Engraved Sulfur
+tile.archt:mossy_sulfur_bricks=Mossy Sulfur Bricks
+tile.archt:mossy_sulfur_cobblestone=Mossy Sulfur Coblestone
+tile.archt:smooth_sulfur=Smooth Sulfur
+tile.archt:sulfur_base=Sulfur Base
+tile.archt:sulfur_capital=Sulfur Capital
+tile.archt:sulfur_cobblestone=Sulfur Coblestone
+tile.archt:sulfur_pillar=Sulfur Pillar
+tile.archt:sulfur_tiles=Sulfur Tiles
+>>>>>>> ff8049cb1bd326c18b09129738bc4118114f601e
 
 archt:itemGroup.name.tuff=Tuff\n§9Architectual Blocks
 tile.archt:broken_tuff_bricks.name=Broken Tuff Bricks

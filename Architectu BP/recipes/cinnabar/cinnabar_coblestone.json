@@ -2,23 +2,23 @@
 	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
 		"description": {
-			"identifier": "archt:engraved_calcite"
+			"identifier": "archt:cinnabar_cobblestone"
 		},
 		"tags": ["stonecutter"],
 		"priority": 2,
 		"ingredients": [
 			{
-				"item": "minecraft:calcite"
+				"item": "minecraft:cinnabar"
 			}
 		],
 		"unlock": [
 			{
-				"item": "minecraft:calcite",
+				"item": "minecraft:cinnabar",
 				"data": 0
 			}
 		],
 		"result": {
-			"item": "archt:engraved_calcite",
+			"item": "archt:cinnabar_cobblestone",
 			"count": 1
 		}
 	}

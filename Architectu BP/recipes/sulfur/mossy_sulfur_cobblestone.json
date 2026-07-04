@@ -2,23 +2,23 @@
 	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
 		"description": {
-			"identifier": "archt:calcite_base"
+			"identifier": "archt:mossy_sulfur_cobblestone"
 		},
 		"tags": ["stonecutter"],
 		"priority": 2,
 		"ingredients": [
 			{
-				"item": "minecraft:calcite"
+				"item": "minecraft:sulfur"
 			}
 		],
 		"unlock": [
 			{
-				"item": "minecraft:calcite",
+				"item": "minecraft:sulfur",
 				"data": 0
 			}
 		],
 		"result": {
-			"item": "archt:calcite_base",
+			"item": "archt:mossy_sulfur_cobblestone",
 			"count": 1
 		}
 	}
